@@ -1,0 +1,13 @@
+body {
+  color: white;
+  --primary: #0E1323;
+  --secondary: #BBC0FF;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  font-family: Rubic;
+  align-items: center;
+  max-width: 1905px;
+  max-height: 1024;
+  background: var(--primary)
+}
